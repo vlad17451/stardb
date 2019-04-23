@@ -42,8 +42,6 @@ class ItemList extends Component {
 
     const items = this.renderItems(peopleList)
 
-
-
     return (
       <View style={b.alignItemsCenter}>
         <Text>{items}</Text>
