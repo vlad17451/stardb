@@ -1,5 +1,0 @@
-export * from './Header'
-export * from './RandomPlanet'
-export * from './ErrorMes'
-export * from './PlanetBox'
-export * from './ItemList'
